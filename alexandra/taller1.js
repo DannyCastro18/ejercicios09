@@ -9,7 +9,7 @@ class Prestamo{
         this.fecha=fecha
         this.valorIntereses=valorIntereses
         this.numeroCuotas=numeroCuotas
-    }
+    } 
     // documento y nombre por defecto
     constructor2(id, nombre){
         this.id=id
